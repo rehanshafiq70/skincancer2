@@ -1,0 +1,12 @@
+flask
+tensorflow
+keras
+numpy
+opencv-python
+pillow
+pandas
+matplotlib
+scikit-learn
+gunicorn
+python-dotenv
+werkzeug

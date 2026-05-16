@@ -1,12 +1,10 @@
-flask
-tensorflow
-keras
-numpy
-opencv-python
-pillow
-pandas
-matplotlib
-scikit-learn
-gunicorn
-python-dotenv
-werkzeug
+streamlit>=1.32.0
+numpy>=1.24.0
+Pillow>=10.0.0
+pandas>=2.0.0
+plotly>=5.18.0
+fpdf2>=2.7.0
+psutil>=5.9.0
+streamlit-option-menu>=0.3.6
+opencv-python-headless>=4.8.0
+# tensorflow>=2.13.0  # Uncomment if you have a real .h5 model
